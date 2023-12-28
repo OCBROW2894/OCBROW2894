@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ochieng Bryian Owuor</h1>
 <h3 align="center">A Kenyan Passionate about Tech(Robots,AI etc...), Games(Mobile,Console and PC) and Mechanics(Mostly Cars🏎🚗🚙 & Planes✈🛩) and other Engineering Wonders🛰🚀🚁🌉</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ocbrow2894&label=Profile%20views&color=0e75b6&style=flat" alt="ocbrow2894" /> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=OCBROW2894&icon=0&color=6)](https://visitcount.itsvg.in)
 
 
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/3fFCBqSsIkcAAAAC/pain-naruto.gif)">
@@ -18,7 +19,7 @@
 
 - 📫 How to reach me **ochiengbryianowuor2894@gmail.com**
 
-- ⚡ Fun fact **Dreams Don't come true over night it takes time ⏳... Don't hate the Player hate the Game... Anime the school of the Legends Beasts shouldn't trust everything a Hunter says To Be Alive is to wake up and Do things you don't want to do Or Don't bother waking up**
+- ⚡ Fun fact **Dreams Don't come true over night it takes time ⏳... Don't hate the Player hate the Game...  Anime the school of the Legends...  Beasts shouldn't trust everything a Hunter says...  To Be Alive is to wake up and Do things you don't want to do Or Don't bother waking up**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -51,7 +52,4 @@
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=OCBROW2894&icon=0&color=6)](https://visitcount.itsvg.in)
 
