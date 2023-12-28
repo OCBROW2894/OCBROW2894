@@ -2,7 +2,7 @@
 <h3 align="center">A Kenyan Passionate about Tech(Robots,AI etc...), Games(Mobile,Console and PC) and Mechanics(Mostly Cars🏎🚗🚙 & Planes✈🛩) and other Engineering Wonders🛰🚀🚁🌉</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=OCBROW2894&icon=0&color=6)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=OCBROW2894&icon=0&color=6)
 
 
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/3fFCBqSsIkcAAAAC/pain-naruto.gif)">
