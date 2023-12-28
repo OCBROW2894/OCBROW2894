@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ocbrow2894&label=Profile%20views&color=0e75b6&style=flat" alt="ocbrow2894" /> </p>
 
 
-<img align="right" alt="Coding" width="650" src="https://media1.tenor.com/m/3fFCBqSsIkcAAAAC/pain-naruto.gif)">
+<img align="right" alt="Coding" width="450" src="https://media1.tenor.com/m/3fFCBqSsIkcAAAAC/pain-naruto.gif)">
 
 - 🔭 I’m currently working on **... Buddy**
 
