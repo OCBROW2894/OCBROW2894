@@ -18,7 +18,7 @@
 - 📫 How to reach me **ochiengbryianowuor2894@gmail.com**
 
 - ⚡ Fun fact **Dreams Don't come true over night it takes time ⏳... Don't hate the Player hate the Game... Anime the school of the Legends Beasts shouldn't trust everything a Hunter says To Be Alive is to wake up and Do things you don't want to do Or Don't bother waking up**
-
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://tenor.com/vBIN.gif)">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/ocbrow_ 2894" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ocbrow_ 2894" height="30" width="40" /></a>
