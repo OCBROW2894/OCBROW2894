@@ -35,11 +35,11 @@
 
 
 # 📊My Stats:
-![](https://github-readme-stats.vercel.app/api?username=OCBROW2894&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true) 
-<img align="right" alt="Coding" width="350" src="https://i.gifer.com/origin/0d/0dedeabfad9b53e09d60bb39e3b50533_w200.gif">
-<br/>
+![](https://github-readme-stats.vercel.app/api?username=OCBROW2894&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=OCBROW2894&theme=highcontrast&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OCBROW2894&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=OCBROW2894&theme=discord&no-frame=true&no-bg=true&margin-w=4)
