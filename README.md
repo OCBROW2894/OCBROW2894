@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **... Buddy**
 
-- 🌱 I’m currently learning **Bachelors Degree in Software Development, Flutter(Dart) and Figma**
+- 🌱 I’m currently doing my and learning **Bachelors Degree in Software Development, Flutter(Dart) and Figma** Respectively
 
 - 👯 I’m looking to collaborate on **Game Dev, Mobile Dev & IoT Projects**
 
