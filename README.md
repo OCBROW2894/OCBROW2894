@@ -7,13 +7,11 @@
 
 <img align="right" alt="Coding" width="450" src="https://media1.tenor.com/m/3fFCBqSsIkcAAAAC/pain-naruto.gif)">
 
-- 🔭 I’m currently working on **... Buddy**
+- 🔭 I’m currently working on a **Laravel** project called **example** 
 
-- 🌱 I’m currently doing my and learning **Bachelors Degree in Software Development, Flutter(Dart) and Figma** Respectively
+- 🌱 I’m currently doing my **Bachelors Degree in Software Development**
 
 - 👯 I’m looking to collaborate on **Game Dev, Mobile Dev & IoT Projects**
-
-- 🤝 I’m looking for help with **Currently 0**
 
 - 👨‍💻 All of my projects are available at **Working On It😁😁😁**
 
