@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="450" src="https://media1.tenor.com/m/3fFCBqSsIkcAAAAC/pain-naruto.gif)">
 
-- 🔭 I’m currently working on a **.NET MAUI** project called **PhoneWord** 
+- 🔭 I’m currently working on a **.NET MAUI** project called **PhoneWor** 
 
 - 🤖 I’m currently a **Coding** & **Robotics** Tutor
 
