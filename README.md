@@ -1,4 +1,4 @@
-<h2>⚠️⚠️⚠️Is The Meme sector working or should I just Remove it⚠️⚠️⚠️</h2> 
+<h2>⚠⚠️⚠️Is The Meme sector working or should I just Remove it⚠️⚠️⚠</h2> 
 - I Havent fixed the Links to my socials
 <br>
 <h1 align="center">Hi 👋, I'm Ochieng Bryian Owuor</h1>
