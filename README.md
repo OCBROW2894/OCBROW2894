@@ -1,5 +1,5 @@
-<!-- <h2>⚠️⚠️Is The Meme sector working or should I just Remove it⚠️⚠️</h2> -->
-- I Havent fixed the Links to my socials
+<!-- <h2>⚠️⚠️Is The Meme sector working or should I just Remove it⚠️⚠️</h2>
+- I Havent fixed the Links to my socials -->
 <br>
 <h1 align="center">Hi 👋, I'm Ochieng Bryian Owuor</h1>
 <h3 align="center">A Kenyan Passionate about Tech(Robots,AI etc...), Games(Mobile,Console and PC) and Mechanics(Mostly Cars🏎🚗🚙 & Planes✈🛩) and other Engineering Wonders🛰🚀🚁🌉</h3>
