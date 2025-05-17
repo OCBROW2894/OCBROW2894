@@ -1,4 +1,4 @@
-<!-- <h2>⚠️⚠️Is The Meme sector working or should I just Remove it⚠️⚠️</h2>
+<!-- 
 - I Havent fixed the Links to my socials 
 -->
 <h1 align="center">Hi 👋, I'm Ochieng Bryian Owuor</h1>
@@ -51,5 +51,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=OCBROW2894&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
+
+
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 350px;"/>
+<h2>⚠️⚠️Is The Meme sector working or should I just Remove it⚠️⚠️</h2>
+<!-- <img src='https://randommeme-five.vercel.app/' style="height: 350px;"/> -->
