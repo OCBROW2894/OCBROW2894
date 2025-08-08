@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on a **.NET MAUI** project called **PhoneWord** 
 
-- 🤖 I’m currently a **Coding** & **Robotics** Tutor
+- 🤖 I’m currently a **Coding** & **Robotics** Tutor (About To Change)
 
 - 👯 I’m looking to collaborate on **Game Dev, Mobile Dev & IoT Projects**
 
