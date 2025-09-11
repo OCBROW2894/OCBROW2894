@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Game Dev, Mobile Dev & IoT Projects**
 
-- 👨‍💻 All of my projects are available at **Working On It😁😁😁**
+- 👨‍💻 **Working On😁😁😁** my portfolio to shocase all my projects
 
 - 📫 How to reach me **ochiengbryianowuor2894@gmail.com**
 
