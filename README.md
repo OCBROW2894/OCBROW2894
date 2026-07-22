@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bryian Owuor Ochieng</h1>
 <h3 align="center">A Kenyan Passionate about Tech(Robots,AI etc...), Games(Mobile,Console and PC) and Mechanics(Mostly Cars🏎🚗🚙 & Planes✈🛩), Art🎨🧑🏾‍🎨 and other Engineering Wonders🛰🚀🚁🌉</h3>
-STREAK STREAK
+STREAK
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ocbrow2894&label=Profile%20views&color=0e75b6&style=flat" alt="ocbrow2894" /> </p>
 
 <img align="right" alt="Coding" width="450" src="https://media1.tenor.com/m/3fFCBqSsIkcAAAAC/pain-naruto.gif)">
